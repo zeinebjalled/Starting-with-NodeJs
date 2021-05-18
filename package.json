@@ -1,0 +1,19 @@
+{
+  "name": "starting-with-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "setting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeinebjalled/Starting-with-NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeinebjalled/Starting-with-NodeJs/issues"
+  },
+  "homepage": "https://github.com/zeinebjalled/Starting-with-NodeJs#readme"
+}
